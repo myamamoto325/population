@@ -1,4 +1,4 @@
-# population
+# popunimation
 This program animates changes in the population composition of each country.
 
 # How to install popunimation
