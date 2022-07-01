@@ -5,6 +5,8 @@ This program animates changes in the population composition of each country.
 
 PID:https://doi.org/10.24433/CO.4689793.v1
 
+This project aims to provide an intuitive inspiration for changes in the world's population composition.
+
 # How to install popunimation
 $ pip install popunimation
 
